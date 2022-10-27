@@ -1,8 +1,8 @@
 # Election_Analysis
 
-Overview of Election Results
+  Overview of Election Results
 
-  In this analysis, we were trying to find out how many voters were coming out to vote from each of 3 counties. We also wanted to find a conclusion of our election results. In this overview we will break down some of our results and the steps we used to get there.
+    In this analysis, we were trying to find out how many voters were coming out to vote from each of 3 counties. We also wanted to find a conclusion of our election results. In this overview we will break down some of our results and the steps we used to get there.
   
   This next section we are moving into will show us some of our results and the steps qwe used to get there. Let us let at some of our election outcomes now:
     
